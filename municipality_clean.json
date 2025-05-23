@@ -1,0 +1,3877 @@
+{
+  "count": 9.223372036854776e+18,
+  "next": "https://bipadportal.gov.np/api/v1/municipality/?format=json&limit=1000&offset=1000",
+  "previous": null,
+  "results": [
+    {
+      "id": 1005,
+      "title": "Phaktanglung",
+      "district": 1
+    },
+    {
+      "id": 1008,
+      "title": "Sirijangha",
+      "district": 1
+    },
+    {
+      "id": 3004,
+      "title": "Illam",
+      "district": 3
+    },
+    {
+      "id": 3005,
+      "title": "Mai",
+      "district": 3
+    },
+    {
+      "id": 3008,
+      "title": "Rong",
+      "district": 3
+    },
+    {
+      "id": 3010,
+      "title": "Suryodaya",
+      "district": 3
+    },
+    {
+      "id": 5016,
+      "title": "Sunwarshi",
+      "district": 5
+    },
+    {
+      "id": 6003,
+      "title": "Bhokraha",
+      "district": 6
+    },
+    {
+      "id": 6007,
+      "title": "Gadhi",
+      "district": 6
+    },
+    {
+      "id": 8001,
+      "title": "Aathrai",
+      "district": 8
+    },
+    {
+      "id": 8003,
+      "title": "Laligurans",
+      "district": 8
+    },
+    {
+      "id": 8006,
+      "title": "Phedap",
+      "district": 8
+    },
+    {
+      "id": 10009,
+      "title": "Tyamkemaiyung",
+      "district": 9
+    },
+    {
+      "id": 9002,
+      "title": "Chainpur",
+      "district": 10
+    },
+    {
+      "id": 9005,
+      "title": "Khandbari",
+      "district": 10
+    },
+    {
+      "id": 9007,
+      "title": "Makalu",
+      "district": 10
+    },
+    {
+      "id": 9009,
+      "title": "Sabhapokhari",
+      "district": 10
+    },
+    {
+      "id": 55003,
+      "title": "Chhatreshwori",
+      "district": 55
+    },
+    {
+      "id": 55004,
+      "title": "Darma",
+      "district": 55
+    },
+    {
+      "id": 55007,
+      "title": "Kapurkot",
+      "district": 55
+    },
+    {
+      "id": 55010,
+      "title": "Tribeni",
+      "district": 55
+    },
+    {
+      "id": 65001,
+      "title": "Chhayanath Rara",
+      "district": 58
+    },
+    {
+      "id": 65004,
+      "title": "Soru",
+      "district": 58
+    },
+    {
+      "id": 60002,
+      "title": "Bhagawatimai",
+      "district": 63
+    },
+    {
+      "id": 60005,
+      "title": "Dullu",
+      "district": 63
+    },
+    {
+      "id": 60006,
+      "title": "Dungeshwor",
+      "district": 63
+    },
+    {
+      "id": 60009,
+      "title": "Narayan",
+      "district": 63
+    },
+    {
+      "id": 57002,
+      "title": "Duduwa",
+      "district": 66
+    },
+    {
+      "id": 57005,
+      "title": "Kohalpur",
+      "district": 66
+    },
+    {
+      "id": 70002,
+      "title": "Badikedar",
+      "district": 68
+    },
+    {
+      "id": 70005,
+      "title": "Jorayal",
+      "district": 68
+    },
+    {
+      "id": 70008,
+      "title": "Sayal",
+      "district": 68
+    },
+    {
+      "id": 70009,
+      "title": "Shikhar",
+      "district": 68
+    },
+    {
+      "id": 77001,
+      "title": "Bhume",
+      "district": 541
+    },
+    {
+      "id": 77003,
+      "title": "Sisne",
+      "district": 541
+    },
+    {
+      "id": 54006,
+      "title": "Tribeni",
+      "district": 542
+    },
+    {
+      "id": 6010,
+      "title": "Itahari",
+      "district": 6
+    },
+    {
+      "id": 9004,
+      "title": "Dharmadevi",
+      "district": 10
+    },
+    {
+      "id": 9010,
+      "title": "Silichong",
+      "district": 10
+    },
+    {
+      "id": 11002,
+      "title": "Mapya Dudhkoshi",
+      "district": 11
+    },
+    {
+      "id": 11003,
+      "title": "Khumbupasanglahmu",
+      "district": 11
+    },
+    {
+      "id": 11004,
+      "title": "Likhupike",
+      "district": 11
+    },
+    {
+      "id": 11007,
+      "title": "Solududhakunda",
+      "district": 11
+    },
+    {
+      "id": 14001,
+      "title": "Belaka",
+      "district": 14
+    },
+    {
+      "id": 14003,
+      "title": "Katari",
+      "district": 14
+    },
+    {
+      "id": 14004,
+      "title": "Rautamai",
+      "district": 14
+    },
+    {
+      "id": 25001,
+      "title": "Bagmati",
+      "district": 28
+    },
+    {
+      "id": 25002,
+      "title": "Godawari_Lalitpur",
+      "district": 28
+    },
+    {
+      "id": 25003,
+      "title": "Konjyosom",
+      "district": 28
+    },
+    {
+      "id": 26002,
+      "title": "Changunarayan",
+      "district": 29
+    },
+    {
+      "id": 26004,
+      "title": "Suryabinayak",
+      "district": 29
+    },
+    {
+      "id": 1003,
+      "title": "Meringden",
+      "district": 1
+    },
+    {
+      "id": 2007,
+      "title": "Tumbewa",
+      "district": 2
+    },
+    {
+      "id": 3003,
+      "title": "Fakphokthum",
+      "district": 3
+    },
+    {
+      "id": 3007,
+      "title": "Mangsebung",
+      "district": 3
+    },
+    {
+      "id": 4004,
+      "title": "Birtamod",
+      "district": 4
+    },
+    {
+      "id": 4012,
+      "title": "Kamal",
+      "district": 4
+    },
+    {
+      "id": 5001,
+      "title": "Belbari",
+      "district": 5
+    },
+    {
+      "id": 5008,
+      "title": "Katahari",
+      "district": 5
+    },
+    {
+      "id": 10003,
+      "title": "Bhojpur",
+      "district": 9
+    },
+    {
+      "id": 14007,
+      "title": "Triyuga",
+      "district": 14
+    },
+    {
+      "id": 31002,
+      "title": "Bakaiya",
+      "district": 31
+    },
+    {
+      "id": 31005,
+      "title": "Indrasarowar",
+      "district": 31
+    },
+    {
+      "id": 31008,
+      "title": "Manahari",
+      "district": 31
+    },
+    {
+      "id": 31010,
+      "title": "Thaha",
+      "district": 31
+    },
+    {
+      "id": 34001,
+      "title": "Bahudaramai",
+      "district": 34
+    },
+    {
+      "id": 35003,
+      "title": "Kalika",
+      "district": 35
+    },
+    {
+      "id": 35006,
+      "title": "Rapti",
+      "district": 35
+    },
+    {
+      "id": 50001,
+      "title": "Banganga",
+      "district": 38
+    },
+    {
+      "id": 50004,
+      "title": "Kapilbastu",
+      "district": 38
+    },
+    {
+      "id": 38001,
+      "title": "Anbukhaireni",
+      "district": 43
+    },
+    {
+      "id": 38002,
+      "title": "Bandipur",
+      "district": 43
+    },
+    {
+      "id": 38008,
+      "title": "Myagde",
+      "district": 43
+    },
+    {
+      "id": 42002,
+      "title": "Loghekar Damodarkunda",
+      "district": 48
+    },
+    {
+      "id": 42005,
+      "title": "Thasang",
+      "district": 48
+    },
+    {
+      "id": 45001,
+      "title": "Badigad",
+      "district": 50
+    },
+    {
+      "id": 45004,
+      "title": "Dhorpatan",
+      "district": 50
+    },
+    {
+      "id": 45005,
+      "title": "Galkot",
+      "district": 50
+    },
+    {
+      "id": 56001,
+      "title": "Babai",
+      "district": 52
+    },
+    {
+      "id": 56005,
+      "title": "Ghorahi",
+      "district": 52
+    },
+    {
+      "id": 56006,
+      "title": "Lamahi",
+      "district": 52
+    },
+    {
+      "id": 56009,
+      "title": "Shantinagar",
+      "district": 52
+    },
+    {
+      "id": 62002,
+      "title": "Dolpo Buddha",
+      "district": 57
+    },
+    {
+      "id": 62004,
+      "title": "Kaike",
+      "district": 57
+    },
+    {
+      "id": 58003,
+      "title": "Barbardiya",
+      "district": 65
+    },
+    {
+      "id": 58006,
+      "title": "Madhuwan",
+      "district": 65
+    },
+    {
+      "id": 31099,
+      "title": "Chitwan National Park",
+      "district": 31
+    },
+    {
+      "id": 1001,
+      "title": "Aathrai Tribeni",
+      "district": 1
+    },
+    {
+      "id": 19012,
+      "title": "Haripurwa",
+      "district": 19
+    },
+    {
+      "id": 21002,
+      "title": "Gokulganga",
+      "district": 21
+    },
+    {
+      "id": 21004,
+      "title": "Likhu Tamakoshi",
+      "district": 21
+    },
+    {
+      "id": 34005,
+      "title": "Dhobini",
+      "district": 34
+    },
+    {
+      "id": 34007,
+      "title": "Jirabhawani",
+      "district": 34
+    },
+    {
+      "id": 34008,
+      "title": "Kalikamai",
+      "district": 34
+    },
+    {
+      "id": 34010,
+      "title": "Parsagadhi",
+      "district": 34
+    },
+    {
+      "id": 34011,
+      "title": "Paterwasugauli",
+      "district": 34
+    },
+    {
+      "id": 34012,
+      "title": "Pokhariya",
+      "district": 34
+    },
+    {
+      "id": 34013,
+      "title": "SakhuwaPrasauni",
+      "district": 34
+    },
+    {
+      "id": 19004,
+      "title": "Basbariya",
+      "district": 19
+    },
+    {
+      "id": 21005,
+      "title": "Manthali",
+      "district": 21
+    },
+    {
+      "id": 21006,
+      "title": "Ramechhap",
+      "district": 21
+    },
+    {
+      "id": 21007,
+      "title": "Sunapati",
+      "district": 21
+    },
+    {
+      "id": 21008,
+      "title": "Umakunda",
+      "district": 21
+    },
+    {
+      "id": 53001,
+      "title": "Paribartan",
+      "district": 54
+    },
+    {
+      "id": 53002,
+      "title": "Lungri",
+      "district": 54
+    },
+    {
+      "id": 53007,
+      "title": "Sunchhahari",
+      "district": 54
+    },
+    {
+      "id": 6006,
+      "title": "Duhabi",
+      "district": 6
+    },
+    {
+      "id": 26001,
+      "title": "Bhaktapur",
+      "district": 29
+    },
+    {
+      "id": 49010,
+      "title": "Rohini",
+      "district": 37
+    },
+    {
+      "id": 49011,
+      "title": "Sainamaina",
+      "district": 37
+    },
+    {
+      "id": 49013,
+      "title": "Siddharthanagar",
+      "district": 37
+    },
+    {
+      "id": 49014,
+      "title": "Siyari",
+      "district": 37
+    },
+    {
+      "id": 49015,
+      "title": "Sudhdhodhan",
+      "district": 37
+    },
+    {
+      "id": 49016,
+      "title": "Tillotama",
+      "district": 37
+    },
+    {
+      "id": 53004,
+      "title": "Rolpa",
+      "district": 54
+    },
+    {
+      "id": 53005,
+      "title": "Runtigadi",
+      "district": 54
+    },
+    {
+      "id": 53008,
+      "title": "Sunil Smriti",
+      "district": 54
+    },
+    {
+      "id": 53009,
+      "title": "Thawang",
+      "district": 54
+    },
+    {
+      "id": 6004,
+      "title": "Dewanganj",
+      "district": 6
+    },
+    {
+      "id": 16009,
+      "title": "Karjanha",
+      "district": 15
+    },
+    {
+      "id": 19001,
+      "title": "Bagmati",
+      "district": 19
+    },
+    {
+      "id": 19003,
+      "title": "Barahathawa",
+      "district": 19
+    },
+    {
+      "id": 19005,
+      "title": "Bishnu",
+      "district": 19
+    },
+    {
+      "id": 19006,
+      "title": "Bramhapuri",
+      "district": 19
+    },
+    {
+      "id": 19008,
+      "title": "Chandranagar",
+      "district": 19
+    },
+    {
+      "id": 19010,
+      "title": "Godaita",
+      "district": 19
+    },
+    {
+      "id": 19013,
+      "title": "Hariwan",
+      "district": 19
+    },
+    {
+      "id": 19014,
+      "title": "Ishworpur",
+      "district": 19
+    },
+    {
+      "id": 19015,
+      "title": "Kabilasi",
+      "district": 19
+    },
+    {
+      "id": 19016,
+      "title": "Kaudena",
+      "district": 19
+    },
+    {
+      "id": 19017,
+      "title": "Lalbandi",
+      "district": 19
+    },
+    {
+      "id": 20002,
+      "title": "Ghanglekh",
+      "district": 20
+    },
+    {
+      "id": 1002,
+      "title": "Maiwakhola",
+      "district": 1
+    },
+    {
+      "id": 6009,
+      "title": "Inaruwa",
+      "district": 6
+    },
+    {
+      "id": 20003,
+      "title": "Golanjor",
+      "district": 20
+    },
+    {
+      "id": 50007,
+      "title": "Mayadevi",
+      "district": 38
+    },
+    {
+      "id": 50008,
+      "title": "Shivaraj",
+      "district": 38
+    },
+    {
+      "id": 6011,
+      "title": "Koshi",
+      "district": 6
+    },
+    {
+      "id": 6012,
+      "title": "Ramdhuni",
+      "district": 6
+    },
+    {
+      "id": 20006,
+      "title": "Marin",
+      "district": 20
+    },
+    {
+      "id": 20007,
+      "title": "Phikkal",
+      "district": 20
+    },
+    {
+      "id": 20008,
+      "title": "Sunkoshi",
+      "district": 20
+    },
+    {
+      "id": 23003,
+      "title": "Bhotekoshi",
+      "district": 24
+    },
+    {
+      "id": 30001,
+      "title": "Benighat Rorang",
+      "district": 26
+    },
+    {
+      "id": 30002,
+      "title": "Dhunibesi",
+      "district": 26
+    },
+    {
+      "id": 30003,
+      "title": "Gajuri",
+      "district": 26
+    },
+    {
+      "id": 30005,
+      "title": "Gangajamuna",
+      "district": 26
+    },
+    {
+      "id": 30006,
+      "title": "Jwalamukhi",
+      "district": 26
+    },
+    {
+      "id": 30008,
+      "title": "Netrawati Dabjong",
+      "district": 26
+    },
+    {
+      "id": 30009,
+      "title": "Neelakantha",
+      "district": 26
+    },
+    {
+      "id": 30011,
+      "title": "Siddhalek",
+      "district": 26
+    },
+    {
+      "id": 24011,
+      "title": "Panchkhal",
+      "district": 30
+    },
+    {
+      "id": 31007,
+      "title": "Makawanpurgadhi",
+      "district": 31
+    },
+    {
+      "id": 32004,
+      "title": "Dewahhi Gonahi",
+      "district": 32
+    },
+    {
+      "id": 50010,
+      "title": "Yashodhara",
+      "district": 38
+    },
+    {
+      "id": 56002,
+      "title": "Banglachuli",
+      "district": 52
+    },
+    {
+      "id": 54001,
+      "title": "Aathbiskot",
+      "district": 542
+    },
+    {
+      "id": 54002,
+      "title": "Banfikot",
+      "district": 542
+    },
+    {
+      "id": 54004,
+      "title": "Musikot",
+      "district": 542
+    },
+    {
+      "id": 54005,
+      "title": "Sani Bheri",
+      "district": 542
+    },
+    {
+      "id": 6099,
+      "title": "Koshi Tappu Wildlife Reserve",
+      "district": 6
+    },
+    {
+      "id": 45099,
+      "title": "Dhorpatan Hunting Reserve",
+      "district": 50
+    },
+    {
+      "id": 58099,
+      "title": "Bardiya National Park",
+      "district": 65
+    },
+    {
+      "id": 76099,
+      "title": "Chitwan National Park",
+      "district": 481
+    },
+    {
+      "id": 17001,
+      "title": "Aaurahi",
+      "district": 17
+    },
+    {
+      "id": 17003,
+      "title": "Bideha",
+      "district": 17
+    },
+    {
+      "id": 17004,
+      "title": "Chhireshwornath",
+      "district": 17
+    },
+    {
+      "id": 23004,
+      "title": "Chautara SangachokGadhi",
+      "district": 24
+    },
+    {
+      "id": 23005,
+      "title": "Helambu",
+      "district": 24
+    },
+    {
+      "id": 23006,
+      "title": "Indrawati",
+      "district": 24
+    },
+    {
+      "id": 23007,
+      "title": "Jugal",
+      "district": 24
+    },
+    {
+      "id": 30010,
+      "title": "Rubi Valley",
+      "district": 26
+    },
+    {
+      "id": 30012,
+      "title": "Thakre",
+      "district": 26
+    },
+    {
+      "id": 30013,
+      "title": "Tripura Sundari",
+      "district": 26
+    },
+    {
+      "id": 36002,
+      "title": "Ajirkot",
+      "district": 44
+    },
+    {
+      "id": 62005,
+      "title": "Mudkechula",
+      "district": 57
+    },
+    {
+      "id": 62007,
+      "title": "Thuli Bheri",
+      "district": 57
+    },
+    {
+      "id": 62008,
+      "title": "Tripurasundari",
+      "district": 57
+    },
+    {
+      "id": 31088,
+      "title": "Parsa Wildlife Reserve",
+      "district": 31
+    },
+    {
+      "id": 1009,
+      "title": "Pathibhara Yangwarak",
+      "district": 1
+    },
+    {
+      "id": 10002,
+      "title": "Arun",
+      "district": 9
+    },
+    {
+      "id": 10004,
+      "title": "Hatuwagadhi",
+      "district": 9
+    },
+    {
+      "id": 10006,
+      "title": "Ramprasad Rai",
+      "district": 9
+    },
+    {
+      "id": 42003,
+      "title": "Gharapjhong",
+      "district": 48
+    },
+    {
+      "id": 63007,
+      "title": "Tatopani",
+      "district": 60
+    },
+    {
+      "id": 75005,
+      "title": "Mahakali_Darchula",
+      "district": 72
+    },
+    {
+      "id": 28004,
+      "title": "Kakani",
+      "district": 25
+    },
+    {
+      "id": 28005,
+      "title": "Kispang",
+      "district": 25
+    },
+    {
+      "id": 49005,
+      "title": "Kotahimai",
+      "district": 37
+    },
+    {
+      "id": 47003,
+      "title": "Nisdi",
+      "district": 39
+    },
+    {
+      "id": 47010,
+      "title": "Tinau",
+      "district": 39
+    },
+    {
+      "id": 44007,
+      "title": "Phalebas",
+      "district": 51
+    },
+    {
+      "id": 48005,
+      "title": "Sarawal",
+      "district": 482
+    },
+    {
+      "id": 18001,
+      "title": "Aurahi",
+      "district": 18
+    },
+    {
+      "id": 18002,
+      "title": "Balwa",
+      "district": 18
+    },
+    {
+      "id": 18006,
+      "title": "Gaushala",
+      "district": 18
+    },
+    {
+      "id": 18008,
+      "title": "Loharpatti",
+      "district": 18
+    },
+    {
+      "id": 14099,
+      "title": "Koshi Tappu Wildlife Reserve",
+      "district": 14
+    },
+    {
+      "id": 43099,
+      "title": "Dhorpatan Hunting Reserve",
+      "district": 49
+    },
+    {
+      "id": 52003,
+      "title": "Jhimruk",
+      "district": 53
+    },
+    {
+      "id": 52006,
+      "title": "Naubahini",
+      "district": 53
+    },
+    {
+      "id": 33099,
+      "title": "Parsa Wildlife Reserve",
+      "district": 33
+    },
+    {
+      "id": 67099,
+      "title": "Khaptad National Park",
+      "district": 70
+    },
+    {
+      "id": 19018,
+      "title": "Malangawa",
+      "district": 19
+    },
+    {
+      "id": 19020,
+      "title": "Ramnagar",
+      "district": 19
+    },
+    {
+      "id": 20004,
+      "title": "Hariharpurgadhi",
+      "district": 20
+    },
+    {
+      "id": 21003,
+      "title": "Khadadevi",
+      "district": 21
+    },
+    {
+      "id": 22001,
+      "title": "Baiteshwor",
+      "district": 22
+    },
+    {
+      "id": 23001,
+      "title": "Balefi",
+      "district": 24
+    },
+    {
+      "id": 23002,
+      "title": "Barhabise",
+      "district": 24
+    },
+    {
+      "id": 27001,
+      "title": "Budhanilakantha",
+      "district": 27
+    },
+    {
+      "id": 27009,
+      "title": "Shankharapur",
+      "district": 27
+    },
+    {
+      "id": 27010,
+      "title": "Tarakeshwor",
+      "district": 27
+    },
+    {
+      "id": 27011,
+      "title": "Tokha",
+      "district": 27
+    },
+    {
+      "id": 25005,
+      "title": "Mahalaxmi",
+      "district": 28
+    },
+    {
+      "id": 26003,
+      "title": "Madhyapur Thimi",
+      "district": 29
+    },
+    {
+      "id": 31001,
+      "title": "Bagmati",
+      "district": 31
+    },
+    {
+      "id": 32006,
+      "title": "Gadhimai",
+      "district": 32
+    },
+    {
+      "id": 32016,
+      "title": "Rajdevi",
+      "district": 32
+    },
+    {
+      "id": 34009,
+      "title": "Pakahamainpur",
+      "district": 34
+    },
+    {
+      "id": 35002,
+      "title": "Ichchhyakamana",
+      "district": 35
+    },
+    {
+      "id": 49012,
+      "title": "Sammarimai",
+      "district": 37
+    },
+    {
+      "id": 51001,
+      "title": "Bhumekasthan",
+      "district": 40
+    },
+    {
+      "id": 51003,
+      "title": "Malarani",
+      "district": 40
+    },
+    {
+      "id": 46001,
+      "title": "Chandrakot",
+      "district": 41
+    },
+    {
+      "id": 46002,
+      "title": "Chatrakot",
+      "district": 41
+    },
+    {
+      "id": 45008,
+      "title": "Nisikhola",
+      "district": 50
+    },
+    {
+      "id": 64001,
+      "title": "Subha Kalika",
+      "district": 61
+    },
+    {
+      "id": 64007,
+      "title": "Raskot",
+      "district": 61
+    },
+    {
+      "id": 59008,
+      "title": "Panchpuri",
+      "district": 64
+    },
+    {
+      "id": 57008,
+      "title": "Rapti Sonari",
+      "district": 66
+    },
+    {
+      "id": 69002,
+      "title": "Chaurpati",
+      "district": 69
+    },
+    {
+      "id": 68009,
+      "title": "Masta",
+      "district": 71
+    },
+    {
+      "id": 73004,
+      "title": "Bhageshwar",
+      "district": 74
+    },
+    {
+      "id": 72007,
+      "title": "Mahakali_Kanchanpur",
+      "district": 75
+    },
+    {
+      "id": 9003,
+      "title": "Chichila",
+      "district": 10
+    },
+    {
+      "id": 65002,
+      "title": "Khatyad",
+      "district": 58
+    },
+    {
+      "id": 65003,
+      "title": "Mugum Karmarong",
+      "district": 58
+    },
+    {
+      "id": 66003,
+      "title": "Kharpunath",
+      "district": 59
+    },
+    {
+      "id": 66006,
+      "title": "Simkot",
+      "district": 59
+    },
+    {
+      "id": 64009,
+      "title": "Tilagufa",
+      "district": 61
+    },
+    {
+      "id": 70004,
+      "title": "Dipayal Silgadi",
+      "district": 68
+    },
+    {
+      "id": 70007,
+      "title": "Purbichauki",
+      "district": 68
+    },
+    {
+      "id": 77002,
+      "title": "Putha Uttarganga",
+      "district": 541
+    },
+    {
+      "id": 19019,
+      "title": "Parsa",
+      "district": 19
+    },
+    {
+      "id": 75006,
+      "title": "Malikaarjun",
+      "district": 72
+    },
+    {
+      "id": 73002,
+      "title": "Alital",
+      "district": 74
+    },
+    {
+      "id": 73005,
+      "title": "Ganayapdhura",
+      "district": 74
+    },
+    {
+      "id": 76002,
+      "title": "Bulingtar",
+      "district": 481
+    },
+    {
+      "id": 76006,
+      "title": "Hupsekot",
+      "district": 481
+    },
+    {
+      "id": 77099,
+      "title": "Dhorpatan Hunting Reserve",
+      "district": 541
+    },
+    {
+      "id": 1004,
+      "title": "Mikwakhola",
+      "district": 1
+    },
+    {
+      "id": 1006,
+      "title": "Phungling",
+      "district": 1
+    },
+    {
+      "id": 8002,
+      "title": "Chhathar",
+      "district": 8
+    },
+    {
+      "id": 8005,
+      "title": "Myanglung",
+      "district": 8
+    },
+    {
+      "id": 9008,
+      "title": "Panchakhapan",
+      "district": 10
+    },
+    {
+      "id": 22008,
+      "title": "Sailung",
+      "district": 22
+    },
+    {
+      "id": 11001,
+      "title": "Thulung Dudhkoshi",
+      "district": 11
+    },
+    {
+      "id": 22007,
+      "title": "Melung",
+      "district": 22
+    },
+    {
+      "id": 5011,
+      "title": "Miklajung",
+      "district": 5
+    },
+    {
+      "id": 6001,
+      "title": "Barah",
+      "district": 6
+    },
+    {
+      "id": 7002,
+      "title": "Chhathar Jorpati",
+      "district": 7
+    },
+    {
+      "id": 11006,
+      "title": "Nechasalyan",
+      "district": 11
+    },
+    {
+      "id": 25004,
+      "title": "Lalitpur",
+      "district": 28
+    },
+    {
+      "id": 25006,
+      "title": "Mahankal",
+      "district": 28
+    },
+    {
+      "id": 2002,
+      "title": "Falgunanda",
+      "district": 2
+    },
+    {
+      "id": 5004,
+      "title": "Dhanpalthan",
+      "district": 5
+    },
+    {
+      "id": 31003,
+      "title": "Bhimphedi",
+      "district": 31
+    },
+    {
+      "id": 31006,
+      "title": "Kailash",
+      "district": 31
+    },
+    {
+      "id": 31009,
+      "title": "Raksirang",
+      "district": 31
+    },
+    {
+      "id": 35001,
+      "title": "Bharatpur",
+      "district": 35
+    },
+    {
+      "id": 35005,
+      "title": "Madi",
+      "district": 35
+    },
+    {
+      "id": 11008,
+      "title": "Sotang",
+      "district": 11
+    },
+    {
+      "id": 35007,
+      "title": "Ratnanagar",
+      "district": 35
+    },
+    {
+      "id": 50003,
+      "title": "Buddhabhumi",
+      "district": 38
+    },
+    {
+      "id": 50005,
+      "title": "Krishnanagar",
+      "district": 38
+    },
+    {
+      "id": 3002,
+      "title": "Deumai",
+      "district": 3
+    },
+    {
+      "id": 19007,
+      "title": "Chakraghatta",
+      "district": 19
+    },
+    {
+      "id": 38005,
+      "title": "Vyas",
+      "district": 43
+    },
+    {
+      "id": 38009,
+      "title": "Rhishing",
+      "district": 43
+    },
+    {
+      "id": 19009,
+      "title": "Dhankaul",
+      "district": 19
+    },
+    {
+      "id": 34004,
+      "title": "Chhipaharmai",
+      "district": 34
+    },
+    {
+      "id": 50002,
+      "title": "Bijayanagar",
+      "district": 38
+    },
+    {
+      "id": 50006,
+      "title": "Maharajgunj",
+      "district": 38
+    },
+    {
+      "id": 50009,
+      "title": "Suddhodhan",
+      "district": 38
+    },
+    {
+      "id": 13001,
+      "title": "Ainselukhark",
+      "district": 12
+    },
+    {
+      "id": 15002,
+      "title": "Balan Bihul",
+      "district": 16
+    },
+    {
+      "id": 34003,
+      "title": "Birgunj",
+      "district": 34
+    },
+    {
+      "id": 42001,
+      "title": "Baragung Muktikhsetra",
+      "district": 48
+    },
+    {
+      "id": 42004,
+      "title": "Lomanthang",
+      "district": 48
+    },
+    {
+      "id": 45002,
+      "title": "Baglung",
+      "district": 50
+    },
+    {
+      "id": 45006,
+      "title": "Jaimini",
+      "district": 50
+    },
+    {
+      "id": 56003,
+      "title": "Dangisharan",
+      "district": 52
+    },
+    {
+      "id": 56007,
+      "title": "Rajpur",
+      "district": 52
+    },
+    {
+      "id": 70099,
+      "title": "Khaptad National Park",
+      "district": 68
+    },
+    {
+      "id": 56010,
+      "title": "Tulsipur",
+      "district": 52
+    },
+    {
+      "id": 58002,
+      "title": "Bansagadhi",
+      "district": 65
+    },
+    {
+      "id": 58005,
+      "title": "Gulariya",
+      "district": 65
+    },
+    {
+      "id": 58007,
+      "title": "Rajapur",
+      "district": 65
+    },
+    {
+      "id": 71003,
+      "title": "Chure",
+      "district": 67
+    },
+    {
+      "id": 70003,
+      "title": "Bogtan",
+      "district": 68
+    },
+    {
+      "id": 70006,
+      "title": "K I Singh",
+      "district": 68
+    },
+    {
+      "id": 69001,
+      "title": "Bannigadhi Jayagadh",
+      "district": 69
+    },
+    {
+      "id": 69005,
+      "title": "Mangalsen",
+      "district": 69
+    },
+    {
+      "id": 69009,
+      "title": "Sanphebagar",
+      "district": 69
+    },
+    {
+      "id": 13008,
+      "title": "Rawa Besi",
+      "district": 12
+    },
+    {
+      "id": 12002,
+      "title": "Chisankhugadhi",
+      "district": 13
+    },
+    {
+      "id": 12003,
+      "title": "Khijidemba",
+      "district": 13
+    },
+    {
+      "id": 12004,
+      "title": "Likhu",
+      "district": 13
+    },
+    {
+      "id": 16001,
+      "title": "Arnama",
+      "district": 15
+    },
+    {
+      "id": 16004,
+      "title": "Bhagawanpur",
+      "district": 15
+    },
+    {
+      "id": 4002,
+      "title": "Barhadashi",
+      "district": 4
+    },
+    {
+      "id": 4005,
+      "title": "Buddhashanti",
+      "district": 4
+    },
+    {
+      "id": 4009,
+      "title": "Haldibari",
+      "district": 4
+    },
+    {
+      "id": 16012,
+      "title": "Mirchaiya",
+      "district": 15
+    },
+    {
+      "id": 16016,
+      "title": "Siraha",
+      "district": 15
+    },
+    {
+      "id": 15011,
+      "title": "Mahadeva",
+      "district": 16
+    },
+    {
+      "id": 15016,
+      "title": "Surunga",
+      "district": 16
+    },
+    {
+      "id": 15017,
+      "title": "Tilathi Koiladi",
+      "district": 16
+    },
+    {
+      "id": 15018,
+      "title": "Tirahut",
+      "district": 16
+    },
+    {
+      "id": 17005,
+      "title": "Dhanauji",
+      "district": 17
+    },
+    {
+      "id": 17011,
+      "title": "Kamala",
+      "district": 17
+    },
+    {
+      "id": 17014,
+      "title": "Mithila Bihari",
+      "district": 17
+    },
+    {
+      "id": 17015,
+      "title": "Mukhiyapatti Musaharmiya",
+      "district": 17
+    },
+    {
+      "id": 57001,
+      "title": "Baijanath",
+      "district": 66
+    },
+    {
+      "id": 57004,
+      "title": "Khajura",
+      "district": 66
+    },
+    {
+      "id": 3001,
+      "title": "Chulachuli",
+      "district": 3
+    },
+    {
+      "id": 4001,
+      "title": "Arjundhara",
+      "district": 4
+    },
+    {
+      "id": 4008,
+      "title": "Gauriganj",
+      "district": 4
+    },
+    {
+      "id": 14006,
+      "title": "Tapli",
+      "district": 14
+    },
+    {
+      "id": 14008,
+      "title": "Udayapurgadhi",
+      "district": 14
+    },
+    {
+      "id": 20001,
+      "title": "Dudhouli",
+      "district": 20
+    },
+    {
+      "id": 4015,
+      "title": "Shivasataxi",
+      "district": 4
+    },
+    {
+      "id": 71002,
+      "title": "Bhajani",
+      "district": 67
+    },
+    {
+      "id": 71005,
+      "title": "Gauriganga",
+      "district": 67
+    },
+    {
+      "id": 71009,
+      "title": "Joshipur",
+      "district": 67
+    },
+    {
+      "id": 71012,
+      "title": "Mohanyal",
+      "district": 67
+    },
+    {
+      "id": 5005,
+      "title": "Gramthan",
+      "district": 5
+    },
+    {
+      "id": 5009,
+      "title": "Kerabari",
+      "district": 5
+    },
+    {
+      "id": 23008,
+      "title": "Lisangkhu Pakhar",
+      "district": 24
+    },
+    {
+      "id": 23012,
+      "title": "Tripurasundari",
+      "district": 24
+    },
+    {
+      "id": 33003,
+      "title": "Bishrampur",
+      "district": 33
+    },
+    {
+      "id": 33007,
+      "title": "Karaiyamai",
+      "district": 33
+    },
+    {
+      "id": 17009,
+      "title": "Janaknandani",
+      "district": 17
+    },
+    {
+      "id": 17013,
+      "title": "Mithila",
+      "district": 17
+    },
+    {
+      "id": 17017,
+      "title": "Sabaila",
+      "district": 17
+    },
+    {
+      "id": 33010,
+      "title": "Nijgadh",
+      "district": 33
+    },
+    {
+      "id": 33013,
+      "title": "Pheta",
+      "district": 33
+    },
+    {
+      "id": 36010,
+      "title": "Siranchok",
+      "district": 44
+    },
+    {
+      "id": 46004,
+      "title": "Gulmidarbar",
+      "district": 41
+    },
+    {
+      "id": 72002,
+      "title": "Belauri",
+      "district": 75
+    },
+    {
+      "id": 18004,
+      "title": "Bhangaha",
+      "district": 18
+    },
+    {
+      "id": 18011,
+      "title": "Matihani",
+      "district": 18
+    },
+    {
+      "id": 18013,
+      "title": "Ramgopalpur",
+      "district": 18
+    },
+    {
+      "id": 24003,
+      "title": "Bhumlu",
+      "district": 30
+    },
+    {
+      "id": 24005,
+      "title": "Dhulikhel",
+      "district": 30
+    },
+    {
+      "id": 24008,
+      "title": "Mandandeupur",
+      "district": 30
+    },
+    {
+      "id": 24012,
+      "title": "Roshi",
+      "district": 30
+    },
+    {
+      "id": 47001,
+      "title": "Bagnaskali",
+      "district": 39
+    },
+    {
+      "id": 47005,
+      "title": "Rainadevi Chhahara",
+      "district": 39
+    },
+    {
+      "id": 47008,
+      "title": "Ribdikot",
+      "district": 39
+    },
+    {
+      "id": 39003,
+      "title": "Bhirkot",
+      "district": 42
+    },
+    {
+      "id": 39005,
+      "title": "Chapakot",
+      "district": 42
+    },
+    {
+      "id": 39008,
+      "title": "Kaligandagi",
+      "district": 42
+    },
+    {
+      "id": 72005,
+      "title": "Krishnapur",
+      "district": 75
+    },
+    {
+      "id": 38003,
+      "title": "Bhanu",
+      "district": 43
+    },
+    {
+      "id": 38010,
+      "title": "Shuklagandaki",
+      "district": 43
+    },
+    {
+      "id": 56004,
+      "title": "Gadhawa",
+      "district": 52
+    },
+    {
+      "id": 61003,
+      "title": "Chhedagad",
+      "district": 62
+    },
+    {
+      "id": 60007,
+      "title": "Gurans",
+      "district": 63
+    },
+    {
+      "id": 73003,
+      "title": "Amargadhi",
+      "district": 74
+    },
+    {
+      "id": 73006,
+      "title": "Nawadurga",
+      "district": 74
+    },
+    {
+      "id": 72006,
+      "title": "Laljhadi",
+      "district": 75
+    },
+    {
+      "id": 36003,
+      "title": "BhimsenThapa",
+      "district": 44
+    },
+    {
+      "id": 36004,
+      "title": "Chum Nubri",
+      "district": 44
+    },
+    {
+      "id": 36007,
+      "title": "Gorkha",
+      "district": 44
+    },
+    {
+      "id": 66001,
+      "title": "Adanchuli",
+      "district": 59
+    },
+    {
+      "id": 35099,
+      "title": "Chitwan National Park",
+      "district": 35
+    },
+    {
+      "id": 12006,
+      "title": "Molung",
+      "district": 13
+    },
+    {
+      "id": 12008,
+      "title": "Sunkoshi",
+      "district": 13
+    },
+    {
+      "id": 16002,
+      "title": "Aurahi",
+      "district": 15
+    },
+    {
+      "id": 16006,
+      "title": "Dhangadhimai",
+      "district": 15
+    },
+    {
+      "id": 16010,
+      "title": "Lahan",
+      "district": 15
+    },
+    {
+      "id": 16013,
+      "title": "Naraha",
+      "district": 15
+    },
+    {
+      "id": 15004,
+      "title": "Bishnupur",
+      "district": 16
+    },
+    {
+      "id": 15005,
+      "title": "Bode Barsain",
+      "district": 16
+    },
+    {
+      "id": 15009,
+      "title": "Kanchanrup",
+      "district": 16
+    },
+    {
+      "id": 15012,
+      "title": "Rajbiraj",
+      "district": 16
+    },
+    {
+      "id": 15014,
+      "title": "Saptakoshi",
+      "district": 16
+    },
+    {
+      "id": 17012,
+      "title": "Lakshminiya",
+      "district": 17
+    },
+    {
+      "id": 18007,
+      "title": "Jaleswor",
+      "district": 18
+    },
+    {
+      "id": 18015,
+      "title": "Sonama",
+      "district": 18
+    },
+    {
+      "id": 22005,
+      "title": "Jiri",
+      "district": 22
+    },
+    {
+      "id": 29001,
+      "title": "Gosaikunda",
+      "district": 23
+    },
+    {
+      "id": 28001,
+      "title": "Belkotgadhi",
+      "district": 25
+    },
+    {
+      "id": 28003,
+      "title": "Dupcheshwar",
+      "district": 25
+    },
+    {
+      "id": 28010,
+      "title": "Suryagadhi",
+      "district": 25
+    },
+    {
+      "id": 32002,
+      "title": "Brindaban",
+      "district": 32
+    },
+    {
+      "id": 32005,
+      "title": "Durga Bhagwati",
+      "district": 32
+    },
+    {
+      "id": 32009,
+      "title": "Gujara",
+      "district": 32
+    },
+    {
+      "id": 32011,
+      "title": "Katahariya",
+      "district": 32
+    },
+    {
+      "id": 32014,
+      "title": "Paroha",
+      "district": 32
+    },
+    {
+      "id": 32015,
+      "title": "Phatuwa Bijayapur",
+      "district": 32
+    },
+    {
+      "id": 33009,
+      "title": "Mahagadhimai",
+      "district": 33
+    },
+    {
+      "id": 34006,
+      "title": "Jagarnathpur",
+      "district": 34
+    },
+    {
+      "id": 39002,
+      "title": "Arjunchaupari",
+      "district": 42
+    },
+    {
+      "id": 39011,
+      "title": "Waling",
+      "district": 42
+    },
+    {
+      "id": 38007,
+      "title": "Ghiring",
+      "district": 43
+    },
+    {
+      "id": 36006,
+      "title": "Gandaki",
+      "district": 44
+    },
+    {
+      "id": 37002,
+      "title": "Dordi",
+      "district": 45
+    },
+    {
+      "id": 40005,
+      "title": "Rupa",
+      "district": 46
+    },
+    {
+      "id": 68011,
+      "title": "Talkot",
+      "district": 71
+    },
+    {
+      "id": 48002,
+      "title": "Palhi Nandan",
+      "district": 482
+    },
+    {
+      "id": 48003,
+      "title": "Pratappur",
+      "district": 482
+    },
+    {
+      "id": 48004,
+      "title": "Ramgram",
+      "district": 482
+    },
+    {
+      "id": 48006,
+      "title": "Sunwal",
+      "district": 482
+    },
+    {
+      "id": 48007,
+      "title": "Susta",
+      "district": 482
+    },
+    {
+      "id": 8004,
+      "title": "Menchayam",
+      "district": 8
+    },
+    {
+      "id": 10001,
+      "title": "Aamchowk",
+      "district": 9
+    },
+    {
+      "id": 10005,
+      "title": "Pauwadungma",
+      "district": 9
+    },
+    {
+      "id": 6008,
+      "title": "Harinagara",
+      "district": 6
+    },
+    {
+      "id": 13005,
+      "title": "Jantedhunga",
+      "district": 12
+    },
+    {
+      "id": 51002,
+      "title": "Chhatradev",
+      "district": 40
+    },
+    {
+      "id": 51004,
+      "title": "Panini",
+      "district": 40
+    },
+    {
+      "id": 51005,
+      "title": "Sandhikharka",
+      "district": 40
+    },
+    {
+      "id": 51006,
+      "title": "Sitganga",
+      "district": 40
+    },
+    {
+      "id": 44005,
+      "title": "Modi",
+      "district": 51
+    },
+    {
+      "id": 44006,
+      "title": "Painyu",
+      "district": 51
+    },
+    {
+      "id": 52001,
+      "title": "Airawati",
+      "district": 53
+    },
+    {
+      "id": 52002,
+      "title": "Gaumukhi",
+      "district": 53
+    },
+    {
+      "id": 52005,
+      "title": "Mandavi",
+      "district": 53
+    },
+    {
+      "id": 52007,
+      "title": "Pyuthan",
+      "district": 53
+    },
+    {
+      "id": 52009,
+      "title": "Sworgadwary",
+      "district": 53
+    },
+    {
+      "id": 53006,
+      "title": "Sukidaha",
+      "district": 54
+    },
+    {
+      "id": 53010,
+      "title": "Tribeni",
+      "district": 54
+    },
+    {
+      "id": 55001,
+      "title": "Bagchaur",
+      "district": 55
+    },
+    {
+      "id": 55008,
+      "title": "Kumakh",
+      "district": 55
+    },
+    {
+      "id": 69006,
+      "title": "Mellekh",
+      "district": 69
+    },
+    {
+      "id": 69007,
+      "title": "Panchadewal Binayak",
+      "district": 69
+    },
+    {
+      "id": 69008,
+      "title": "Ramaroshan",
+      "district": 69
+    },
+    {
+      "id": 67001,
+      "title": "Badimalika",
+      "district": 70
+    },
+    {
+      "id": 67002,
+      "title": "Budhiganga",
+      "district": 70
+    },
+    {
+      "id": 67003,
+      "title": "Budhinanda",
+      "district": 70
+    },
+    {
+      "id": 67004,
+      "title": "Khaptad Chhededaha",
+      "district": 70
+    },
+    {
+      "id": 67005,
+      "title": "Gaumul",
+      "district": 70
+    },
+    {
+      "id": 67006,
+      "title": "Himali",
+      "district": 70
+    },
+    {
+      "id": 67007,
+      "title": "Jagannath",
+      "district": 70
+    },
+    {
+      "id": 67009,
+      "title": "Tribeni",
+      "district": 70
+    },
+    {
+      "id": 68012,
+      "title": "Thalara",
+      "district": 71
+    },
+    {
+      "id": 74001,
+      "title": "Dasharathchanda",
+      "district": 73
+    },
+    {
+      "id": 74002,
+      "title": "Dilasaini",
+      "district": 73
+    },
+    {
+      "id": 74003,
+      "title": "Dogadakedar",
+      "district": 73
+    },
+    {
+      "id": 74004,
+      "title": "Melauli",
+      "district": 73
+    },
+    {
+      "id": 74005,
+      "title": "Pancheshwar",
+      "district": 73
+    },
+    {
+      "id": 74006,
+      "title": "Patan",
+      "district": 73
+    },
+    {
+      "id": 54003,
+      "title": "Chaurjahari",
+      "district": 542
+    },
+    {
+      "id": 32008,
+      "title": "Gaur",
+      "district": 32
+    },
+    {
+      "id": 68001,
+      "title": "Bithadchir",
+      "district": 71
+    },
+    {
+      "id": 68002,
+      "title": "Bungal",
+      "district": 71
+    },
+    {
+      "id": 68003,
+      "title": "Chabispathivera",
+      "district": 71
+    },
+    {
+      "id": 68004,
+      "title": "Durgathali",
+      "district": 71
+    },
+    {
+      "id": 68005,
+      "title": "JayaPrithivi",
+      "district": 71
+    },
+    {
+      "id": 68006,
+      "title": "Saipal",
+      "district": 71
+    },
+    {
+      "id": 68007,
+      "title": "Kedarseu",
+      "district": 71
+    },
+    {
+      "id": 68008,
+      "title": "Khaptadchhanna",
+      "district": 71
+    },
+    {
+      "id": 68010,
+      "title": "Surma",
+      "district": 71
+    },
+    {
+      "id": 7001,
+      "title": "Chaubise",
+      "district": 7
+    },
+    {
+      "id": 7003,
+      "title": "Dhankuta",
+      "district": 7
+    },
+    {
+      "id": 7004,
+      "title": "Shahidbhumi",
+      "district": 7
+    },
+    {
+      "id": 7005,
+      "title": "Mahalaxmi",
+      "district": 7
+    },
+    {
+      "id": 7006,
+      "title": "Pakhribas",
+      "district": 7
+    },
+    {
+      "id": 13002,
+      "title": "Barahapokhari",
+      "district": 12
+    },
+    {
+      "id": 13003,
+      "title": "Diprung Chuichumma",
+      "district": 12
+    },
+    {
+      "id": 13004,
+      "title": "Halesi Tuwachung",
+      "district": 12
+    },
+    {
+      "id": 13006,
+      "title": "Kepilasagadhi",
+      "district": 12
+    },
+    {
+      "id": 13007,
+      "title": "Khotehang",
+      "district": 12
+    },
+    {
+      "id": 13009,
+      "title": "Diktel Rupakot Majhuwagadhi",
+      "district": 12
+    },
+    {
+      "id": 13010,
+      "title": "Sakela",
+      "district": 12
+    },
+    {
+      "id": 22002,
+      "title": "Bhimeshwor",
+      "district": 22
+    },
+    {
+      "id": 45009,
+      "title": "Taman Khola",
+      "district": 50
+    },
+    {
+      "id": 56008,
+      "title": "Rapti",
+      "district": 52
+    },
+    {
+      "id": 55005,
+      "title": "Siddha Kumakh",
+      "district": 55
+    },
+    {
+      "id": 66005,
+      "title": "Sarkegad",
+      "district": 59
+    },
+    {
+      "id": 66007,
+      "title": "Tanjakot",
+      "district": 59
+    },
+    {
+      "id": 57003,
+      "title": "Janki",
+      "district": 66
+    },
+    {
+      "id": 57006,
+      "title": "Narainapur",
+      "district": 66
+    },
+    {
+      "id": 75007,
+      "title": "Marma",
+      "district": 72
+    },
+    {
+      "id": 75008,
+      "title": "Naugad",
+      "district": 72
+    },
+    {
+      "id": 68099,
+      "title": "Khaptad National Park",
+      "district": 71
+    },
+    {
+      "id": 75009,
+      "title": "Shailyashikhar",
+      "district": 72
+    },
+    {
+      "id": 74007,
+      "title": "Purchaudi",
+      "district": 73
+    },
+    {
+      "id": 14002,
+      "title": "Chaudandigadhi",
+      "district": 14
+    },
+    {
+      "id": 14005,
+      "title": "Limchunbung",
+      "district": 14
+    },
+    {
+      "id": 58004,
+      "title": "Geruwa",
+      "district": 65
+    },
+    {
+      "id": 58008,
+      "title": "Thakurbaba",
+      "district": 65
+    },
+    {
+      "id": 67008,
+      "title": "Swami Kartik",
+      "district": 70
+    },
+    {
+      "id": 75001,
+      "title": "Apihimal",
+      "district": 72
+    },
+    {
+      "id": 75002,
+      "title": "Byas",
+      "district": 72
+    },
+    {
+      "id": 75003,
+      "title": "Dunhu",
+      "district": 72
+    },
+    {
+      "id": 75004,
+      "title": "Lekam",
+      "district": 72
+    },
+    {
+      "id": 74008,
+      "title": "Shivanath",
+      "district": 73
+    },
+    {
+      "id": 74009,
+      "title": "Sigas",
+      "district": 73
+    },
+    {
+      "id": 74010,
+      "title": "Surnaya",
+      "district": 73
+    },
+    {
+      "id": 17002,
+      "title": "Bateshwor",
+      "district": 17
+    },
+    {
+      "id": 22009,
+      "title": "Tamakoshi",
+      "district": 22
+    },
+    {
+      "id": 29002,
+      "title": "Kalika",
+      "district": 23
+    },
+    {
+      "id": 29004,
+      "title": "Aamachhodingmo",
+      "district": 23
+    },
+    {
+      "id": 34014,
+      "title": "Thori",
+      "district": 34
+    },
+    {
+      "id": 63001,
+      "title": "Chandannath",
+      "district": 60
+    },
+    {
+      "id": 63002,
+      "title": "Guthichaur",
+      "district": 60
+    },
+    {
+      "id": 63004,
+      "title": "Kanakasundari",
+      "district": 60
+    },
+    {
+      "id": 63005,
+      "title": "Patrasi",
+      "district": 60
+    },
+    {
+      "id": 63006,
+      "title": "Sinja",
+      "district": 60
+    },
+    {
+      "id": 63008,
+      "title": "Tila",
+      "district": 60
+    },
+    {
+      "id": 64002,
+      "title": "Khandachakra",
+      "district": 61
+    },
+    {
+      "id": 6002,
+      "title": "Barju",
+      "district": 6
+    },
+    {
+      "id": 7007,
+      "title": "Sangurigadhi",
+      "district": 7
+    },
+    {
+      "id": 16011,
+      "title": "Laxmipur Patari",
+      "district": 15
+    },
+    {
+      "id": 16015,
+      "title": "Sakhuwanankarkatti",
+      "district": 15
+    },
+    {
+      "id": 29005,
+      "title": "Uttargaya",
+      "district": 23
+    },
+    {
+      "id": 31004,
+      "title": "Hetauda",
+      "district": 31
+    },
+    {
+      "id": 12001,
+      "title": "Champadevi",
+      "district": 13
+    },
+    {
+      "id": 17007,
+      "title": "Ganeshman Charnath",
+      "district": 17
+    },
+    {
+      "id": 20005,
+      "title": "Kamalamai",
+      "district": 20
+    },
+    {
+      "id": 20009,
+      "title": "Tinpatan",
+      "district": 20
+    },
+    {
+      "id": 21001,
+      "title": "Doramba",
+      "district": 21
+    },
+    {
+      "id": 23010,
+      "title": "Panchpokhari Thangpal",
+      "district": 24
+    },
+    {
+      "id": 27008,
+      "title": "Nagarjun",
+      "district": 27
+    },
+    {
+      "id": 24002,
+      "title": "Bethanchowk",
+      "district": 30
+    },
+    {
+      "id": 24007,
+      "title": "Mahabharat",
+      "district": 30
+    },
+    {
+      "id": 47009,
+      "title": "Tansen",
+      "district": 39
+    },
+    {
+      "id": 46008,
+      "title": "Malika",
+      "district": 41
+    },
+    {
+      "id": 46010,
+      "title": "Resunga",
+      "district": 41
+    },
+    {
+      "id": 37001,
+      "title": "Besishahar",
+      "district": 45
+    },
+    {
+      "id": 37003,
+      "title": "Dudhpokhari",
+      "district": 45
+    },
+    {
+      "id": 37004,
+      "title": "Kwholasothar",
+      "district": 45
+    },
+    {
+      "id": 37005,
+      "title": "MadhyaNepal",
+      "district": 45
+    },
+    {
+      "id": 37007,
+      "title": "Rainas",
+      "district": 45
+    },
+    {
+      "id": 53003,
+      "title": "Madi",
+      "district": 54
+    },
+    {
+      "id": 59001,
+      "title": "Barahtal",
+      "district": 64
+    },
+    {
+      "id": 71007,
+      "title": "Godawari_Kailali",
+      "district": 67
+    },
+    {
+      "id": 71011,
+      "title": "Lamkichuha",
+      "district": 67
+    },
+    {
+      "id": 72004,
+      "title": "Bhimdatta",
+      "district": 75
+    },
+    {
+      "id": 76001,
+      "title": "Binayee Tribeni",
+      "district": 481
+    },
+    {
+      "id": 37008,
+      "title": "Sundarbazar",
+      "district": 45
+    },
+    {
+      "id": 41001,
+      "title": "Chame",
+      "district": 47
+    },
+    {
+      "id": 41003,
+      "title": "Nashong",
+      "district": 47
+    },
+    {
+      "id": 41004,
+      "title": "Manang Ngisyang",
+      "district": 47
+    },
+    {
+      "id": 43002,
+      "title": "Beni",
+      "district": 49
+    },
+    {
+      "id": 43003,
+      "title": "Dhaulagiri",
+      "district": 49
+    },
+    {
+      "id": 43004,
+      "title": "Malika",
+      "district": 49
+    },
+    {
+      "id": 43005,
+      "title": "Mangala",
+      "district": 49
+    },
+    {
+      "id": 44001,
+      "title": "Bihadi",
+      "district": 51
+    },
+    {
+      "id": 44002,
+      "title": "Jaljala",
+      "district": 51
+    },
+    {
+      "id": 44003,
+      "title": "Kushma",
+      "district": 51
+    },
+    {
+      "id": 61001,
+      "title": "Barekot",
+      "district": 62
+    },
+    {
+      "id": 61002,
+      "title": "Bheri",
+      "district": 62
+    },
+    {
+      "id": 61004,
+      "title": "Junichande",
+      "district": 62
+    },
+    {
+      "id": 61005,
+      "title": "Kuse",
+      "district": 62
+    },
+    {
+      "id": 9006,
+      "title": "Madi",
+      "district": 10
+    },
+    {
+      "id": 29003,
+      "title": "Naukunda",
+      "district": 23
+    },
+    {
+      "id": 28008,
+      "title": "Panchakanya",
+      "district": 25
+    },
+    {
+      "id": 28012,
+      "title": "Tarkeshwar",
+      "district": 25
+    },
+    {
+      "id": 30004,
+      "title": "Galchi",
+      "district": 26
+    },
+    {
+      "id": 30007,
+      "title": "Khaniyabash",
+      "district": 26
+    },
+    {
+      "id": 33002,
+      "title": "Baragadhi",
+      "district": 33
+    },
+    {
+      "id": 33005,
+      "title": "Jitpur Simara",
+      "district": 33
+    },
+    {
+      "id": 33011,
+      "title": "Pacharauta",
+      "district": 33
+    },
+    {
+      "id": 33016,
+      "title": "Suwarna",
+      "district": 33
+    },
+    {
+      "id": 52004,
+      "title": "Mallarani",
+      "district": 53
+    },
+    {
+      "id": 52008,
+      "title": "Sarumarani",
+      "district": 53
+    },
+    {
+      "id": 64003,
+      "title": "Mahawai",
+      "district": 61
+    },
+    {
+      "id": 64004,
+      "title": "Naraharinath",
+      "district": 61
+    },
+    {
+      "id": 64005,
+      "title": "Pachaljharana",
+      "district": 61
+    },
+    {
+      "id": 64006,
+      "title": "Palata",
+      "district": 61
+    },
+    {
+      "id": 61007,
+      "title": "Nalgaad",
+      "district": 62
+    },
+    {
+      "id": 59004,
+      "title": "Chaukune",
+      "district": 64
+    },
+    {
+      "id": 59007,
+      "title": "Lekbeshi",
+      "district": 64
+    },
+    {
+      "id": 59009,
+      "title": "Simta",
+      "district": 64
+    },
+    {
+      "id": 58001,
+      "title": "Badhaiyatal",
+      "district": 65
+    },
+    {
+      "id": 34099,
+      "title": "Chitwan National Park",
+      "district": 34
+    },
+    {
+      "id": 49099,
+      "title": "Lumbini Sanskritik Development Area",
+      "district": 37
+    },
+    {
+      "id": 34002,
+      "title": "Bindabasini",
+      "district": 34
+    },
+    {
+      "id": 55002,
+      "title": "Bangad Kupinde",
+      "district": 55
+    },
+    {
+      "id": 55006,
+      "title": "Kalimati",
+      "district": 55
+    },
+    {
+      "id": 55009,
+      "title": "Sharada",
+      "district": 55
+    },
+    {
+      "id": 64008,
+      "title": "Sanni Tribeni",
+      "district": 61
+    },
+    {
+      "id": 60001,
+      "title": "Aathabis",
+      "district": 63
+    },
+    {
+      "id": 60004,
+      "title": "Chamunda Bindrasaini",
+      "district": 63
+    },
+    {
+      "id": 60008,
+      "title": "Mahabu",
+      "district": 63
+    },
+    {
+      "id": 60010,
+      "title": "Naumule",
+      "district": 63
+    },
+    {
+      "id": 57007,
+      "title": "Nepalgunj",
+      "district": 66
+    },
+    {
+      "id": 70001,
+      "title": "Aadarsha",
+      "district": 68
+    },
+    {
+      "id": 76007,
+      "title": "Kawasoti",
+      "district": 481
+    },
+    {
+      "id": 1007,
+      "title": "Sidingba",
+      "district": 1
+    },
+    {
+      "id": 3006,
+      "title": "Maijogmai",
+      "district": 3
+    },
+    {
+      "id": 9001,
+      "title": "Bhotkhola",
+      "district": 10
+    },
+    {
+      "id": 10007,
+      "title": "Salpasilichho",
+      "district": 9
+    },
+    {
+      "id": 10008,
+      "title": "Shadananda",
+      "district": 9
+    },
+    {
+      "id": 4003,
+      "title": "Bhadrapur",
+      "district": 4
+    },
+    {
+      "id": 4006,
+      "title": "Damak",
+      "district": 4
+    },
+    {
+      "id": 4010,
+      "title": "Jhapa",
+      "district": 4
+    },
+    {
+      "id": 4013,
+      "title": "Kankai",
+      "district": 4
+    },
+    {
+      "id": 4014,
+      "title": "Mechinagar",
+      "district": 4
+    },
+    {
+      "id": 5003,
+      "title": "Budhiganga",
+      "district": 5
+    },
+    {
+      "id": 5006,
+      "title": "Jahada",
+      "district": 5
+    },
+    {
+      "id": 5007,
+      "title": "Kanepokhari",
+      "district": 5
+    },
+    {
+      "id": 5010,
+      "title": "Letang",
+      "district": 5
+    },
+    {
+      "id": 5013,
+      "title": "Rangeli",
+      "district": 5
+    },
+    {
+      "id": 5014,
+      "title": "Ratuwamai",
+      "district": 5
+    },
+    {
+      "id": 5017,
+      "title": "Uralabari",
+      "district": 5
+    },
+    {
+      "id": 17006,
+      "title": "Dhanusadham",
+      "district": 17
+    },
+    {
+      "id": 17008,
+      "title": "Hansapur",
+      "district": 17
+    },
+    {
+      "id": 17010,
+      "title": "Janakpur",
+      "district": 17
+    },
+    {
+      "id": 17016,
+      "title": "Nagarain",
+      "district": 17
+    },
+    {
+      "id": 17018,
+      "title": "Sahidnagar",
+      "district": 17
+    },
+    {
+      "id": 23009,
+      "title": "Melamchi",
+      "district": 24
+    },
+    {
+      "id": 23011,
+      "title": "Sunkoshi",
+      "district": 24
+    },
+    {
+      "id": 33001,
+      "title": "Adarshkotwal",
+      "district": 33
+    },
+    {
+      "id": 33004,
+      "title": "Devtal",
+      "district": 33
+    },
+    {
+      "id": 33006,
+      "title": "Kalaiya",
+      "district": 33
+    },
+    {
+      "id": 33008,
+      "title": "Kolhabi",
+      "district": 33
+    },
+    {
+      "id": 33012,
+      "title": "Parwanipur",
+      "district": 33
+    },
+    {
+      "id": 33015,
+      "title": "Simraungadh",
+      "district": 33
+    },
+    {
+      "id": 36005,
+      "title": "Dharche",
+      "district": 44
+    },
+    {
+      "id": 36008,
+      "title": "Palungtar",
+      "district": 44
+    },
+    {
+      "id": 36011,
+      "title": "Gangadev",
+      "district": 44
+    },
+    {
+      "id": 66002,
+      "title": "Chankheli",
+      "district": 59
+    },
+    {
+      "id": 66004,
+      "title": "Namkha",
+      "district": 59
+    },
+    {
+      "id": 71001,
+      "title": "Bardagoriya",
+      "district": 67
+    },
+    {
+      "id": 71004,
+      "title": "Dhangadhi",
+      "district": 67
+    },
+    {
+      "id": 71006,
+      "title": "Ghodaghodi",
+      "district": 67
+    },
+    {
+      "id": 71008,
+      "title": "Janaki",
+      "district": 67
+    },
+    {
+      "id": 71010,
+      "title": "Kailari",
+      "district": 67
+    },
+    {
+      "id": 71013,
+      "title": "Tikapur",
+      "district": 67
+    },
+    {
+      "id": 2001,
+      "title": "Falelung",
+      "district": 2
+    },
+    {
+      "id": 18005,
+      "title": "Ekdara",
+      "district": 18
+    },
+    {
+      "id": 18009,
+      "title": "Mahottari",
+      "district": 18
+    },
+    {
+      "id": 18012,
+      "title": "Pipra",
+      "district": 18
+    },
+    {
+      "id": 18014,
+      "title": "Samsi",
+      "district": 18
+    },
+    {
+      "id": 19011,
+      "title": "Haripur",
+      "district": 19
+    },
+    {
+      "id": 24001,
+      "title": "Banepa",
+      "district": 30
+    },
+    {
+      "id": 24004,
+      "title": "Chaurideurali",
+      "district": 30
+    },
+    {
+      "id": 24006,
+      "title": "Khanikhola",
+      "district": 30
+    },
+    {
+      "id": 24009,
+      "title": "Namobuddha",
+      "district": 30
+    },
+    {
+      "id": 24010,
+      "title": "Panauti",
+      "district": 30
+    },
+    {
+      "id": 24013,
+      "title": "Temal",
+      "district": 30
+    },
+    {
+      "id": 47002,
+      "title": "Mathagadhi",
+      "district": 39
+    },
+    {
+      "id": 47004,
+      "title": "Purbakhola",
+      "district": 39
+    },
+    {
+      "id": 47006,
+      "title": "Rambha",
+      "district": 39
+    },
+    {
+      "id": 46005,
+      "title": "Isma",
+      "district": 41
+    },
+    {
+      "id": 39001,
+      "title": "Aandhikhola",
+      "district": 42
+    },
+    {
+      "id": 39004,
+      "title": "Biruwa",
+      "district": 42
+    },
+    {
+      "id": 39006,
+      "title": "Galyang",
+      "district": 42
+    },
+    {
+      "id": 39009,
+      "title": "Phedikhola",
+      "district": 42
+    },
+    {
+      "id": 39010,
+      "title": "Putalibazar",
+      "district": 42
+    },
+    {
+      "id": 38004,
+      "title": "Bhimad",
+      "district": 43
+    },
+    {
+      "id": 62003,
+      "title": "Jagadulla",
+      "district": 57
+    },
+    {
+      "id": 61006,
+      "title": "Shiwalaya",
+      "district": 62
+    },
+    {
+      "id": 60003,
+      "title": "Bhairabi",
+      "district": 63
+    },
+    {
+      "id": 60011,
+      "title": "Thantikandh",
+      "district": 63
+    },
+    {
+      "id": 59002,
+      "title": "Bheriganga",
+      "district": 64
+    },
+    {
+      "id": 69003,
+      "title": "Dhakari",
+      "district": 69
+    },
+    {
+      "id": 69004,
+      "title": "Kamalbazar",
+      "district": 69
+    },
+    {
+      "id": 73001,
+      "title": "Ajaymeru",
+      "district": 74
+    },
+    {
+      "id": 73007,
+      "title": "Parashuram",
+      "district": 74
+    },
+    {
+      "id": 72001,
+      "title": "Bedkot",
+      "district": 75
+    },
+    {
+      "id": 72003,
+      "title": "Beldandi",
+      "district": 75
+    },
+    {
+      "id": 72008,
+      "title": "Punarbas",
+      "district": 75
+    },
+    {
+      "id": 72009,
+      "title": "Shuklaphanta",
+      "district": 75
+    },
+    {
+      "id": 72099,
+      "title": "Shuklaphanta National Park",
+      "district": 75
+    },
+    {
+      "id": 2003,
+      "title": "Hilihang",
+      "district": 2
+    },
+    {
+      "id": 16003,
+      "title": "Bariyarpatti",
+      "district": 15
+    },
+    {
+      "id": 16005,
+      "title": "Bishnupur",
+      "district": 15
+    },
+    {
+      "id": 16007,
+      "title": "Golbazar",
+      "district": 15
+    },
+    {
+      "id": 16008,
+      "title": "Kalyanpur",
+      "district": 15
+    },
+    {
+      "id": 15003,
+      "title": "Rajgadh",
+      "district": 16
+    },
+    {
+      "id": 15006,
+      "title": "Chhinnamasta",
+      "district": 16
+    },
+    {
+      "id": 15007,
+      "title": "Dakneshwori",
+      "district": 16
+    },
+    {
+      "id": 15008,
+      "title": "Hanumannagar Kankalini",
+      "district": 16
+    },
+    {
+      "id": 15010,
+      "title": "Khadak",
+      "district": 16
+    },
+    {
+      "id": 15013,
+      "title": "Rupani",
+      "district": 16
+    },
+    {
+      "id": 15015,
+      "title": "Shambhunath",
+      "district": 16
+    },
+    {
+      "id": 28002,
+      "title": "Bidur",
+      "district": 25
+    },
+    {
+      "id": 33014,
+      "title": "Prasauni",
+      "district": 33
+    },
+    {
+      "id": 35004,
+      "title": "Khairahani",
+      "district": 35
+    },
+    {
+      "id": 46007,
+      "title": "Madane",
+      "district": 41
+    },
+    {
+      "id": 46009,
+      "title": "Musikot",
+      "district": 41
+    },
+    {
+      "id": 46012,
+      "title": "Satyawati",
+      "district": 41
+    },
+    {
+      "id": 38006,
+      "title": "Devghat",
+      "district": 43
+    },
+    {
+      "id": 36001,
+      "title": "Aarughat",
+      "district": 44
+    },
+    {
+      "id": 36009,
+      "title": "Sahid Lakhan",
+      "district": 44
+    },
+    {
+      "id": 37006,
+      "title": "Marsyangdi",
+      "district": 45
+    },
+    {
+      "id": 41002,
+      "title": "Narpa Bhoomi",
+      "district": 47
+    },
+    {
+      "id": 43001,
+      "title": "Annapurna",
+      "district": 49
+    },
+    {
+      "id": 43006,
+      "title": "Raghuganga",
+      "district": 49
+    },
+    {
+      "id": 62006,
+      "title": "Shey Phoksundo",
+      "district": 57
+    },
+    {
+      "id": 59003,
+      "title": "Birendranagar",
+      "district": 64
+    },
+    {
+      "id": 59005,
+      "title": "Chingad",
+      "district": 64
+    },
+    {
+      "id": 69010,
+      "title": "Turmakhad",
+      "district": 69
+    },
+    {
+      "id": 76003,
+      "title": "Baudikali",
+      "district": 481
+    },
+    {
+      "id": 76004,
+      "title": "Devchuli",
+      "district": 481
+    },
+    {
+      "id": 76005,
+      "title": "Gaidakot",
+      "district": 481
+    },
+    {
+      "id": 76008,
+      "title": "Madhyabindu",
+      "district": 481
+    },
+    {
+      "id": 69099,
+      "title": "Khaptad National Park",
+      "district": 69
+    },
+    {
+      "id": 15099,
+      "title": "Koshi Tappu Wildlife Reserve",
+      "district": 16
+    },
+    {
+      "id": 2006,
+      "title": "Phidim",
+      "district": 2
+    },
+    {
+      "id": 3009,
+      "title": "Sandakpur",
+      "district": 3
+    },
+    {
+      "id": 4007,
+      "title": "Gauradhaha",
+      "district": 4
+    },
+    {
+      "id": 4011,
+      "title": "Kachankawal",
+      "district": 4
+    },
+    {
+      "id": 5002,
+      "title": "Biratnagar",
+      "district": 5
+    },
+    {
+      "id": 5012,
+      "title": "Patahrishanishchare",
+      "district": 5
+    },
+    {
+      "id": 5015,
+      "title": "Sundarharaicha",
+      "district": 5
+    },
+    {
+      "id": 6005,
+      "title": "Dharan",
+      "district": 6
+    },
+    {
+      "id": 11005,
+      "title": "Mahakulung",
+      "district": 11
+    },
+    {
+      "id": 27002,
+      "title": "Chandragiri",
+      "district": 27
+    },
+    {
+      "id": 27003,
+      "title": "Dakshinkali",
+      "district": 27
+    },
+    {
+      "id": 27004,
+      "title": "Gokarneshwor",
+      "district": 27
+    },
+    {
+      "id": 27005,
+      "title": "Kageshwori Manahora",
+      "district": 27
+    },
+    {
+      "id": 27006,
+      "title": "Kathmandu",
+      "district": 27
+    },
+    {
+      "id": 27007,
+      "title": "Kirtipur",
+      "district": 27
+    },
+    {
+      "id": 46003,
+      "title": "Dhurkot",
+      "district": 41
+    },
+    {
+      "id": 46006,
+      "title": "Kaligandaki",
+      "district": 41
+    },
+    {
+      "id": 46011,
+      "title": "Ruru",
+      "district": 41
+    },
+    {
+      "id": 40001,
+      "title": "Annapurna",
+      "district": 46
+    },
+    {
+      "id": 45003,
+      "title": "Bareng",
+      "district": 50
+    },
+    {
+      "id": 45007,
+      "title": "Kanthekhola",
+      "district": 50
+    },
+    {
+      "id": 45010,
+      "title": "Tara Khola",
+      "district": 50
+    },
+    {
+      "id": 2004,
+      "title": "Kummayak",
+      "district": 2
+    },
+    {
+      "id": 2005,
+      "title": "Miklajung",
+      "district": 2
+    },
+    {
+      "id": 2008,
+      "title": "Yangwarak",
+      "district": 2
+    },
+    {
+      "id": 12005,
+      "title": "Manebhanjyang",
+      "district": 13
+    },
+    {
+      "id": 12007,
+      "title": "Siddhicharan",
+      "district": 13
+    },
+    {
+      "id": 16014,
+      "title": "Nawarajpur",
+      "district": 15
+    },
+    {
+      "id": 16017,
+      "title": "Sukhipur",
+      "district": 15
+    },
+    {
+      "id": 15001,
+      "title": "Agnisair Krishna Savaran",
+      "district": 16
+    },
+    {
+      "id": 18003,
+      "title": "Bardibas",
+      "district": 18
+    },
+    {
+      "id": 18010,
+      "title": "Manra Siswa",
+      "district": 18
+    },
+    {
+      "id": 19002,
+      "title": "Balara",
+      "district": 19
+    },
+    {
+      "id": 22003,
+      "title": "Bigu",
+      "district": 22
+    },
+    {
+      "id": 22004,
+      "title": "Gaurishankar",
+      "district": 22
+    },
+    {
+      "id": 22006,
+      "title": "Kalinchok",
+      "district": 22
+    },
+    {
+      "id": 28006,
+      "title": "Likhu",
+      "district": 25
+    },
+    {
+      "id": 28007,
+      "title": "Meghang",
+      "district": 25
+    },
+    {
+      "id": 28009,
+      "title": "Shivapuri",
+      "district": 25
+    },
+    {
+      "id": 28011,
+      "title": "Tadi",
+      "district": 25
+    },
+    {
+      "id": 32001,
+      "title": "Baudhimai",
+      "district": 32
+    },
+    {
+      "id": 32003,
+      "title": "Chandrapur",
+      "district": 32
+    },
+    {
+      "id": 32007,
+      "title": "Garuda",
+      "district": 32
+    },
+    {
+      "id": 32010,
+      "title": "Ishanath",
+      "district": 32
+    },
+    {
+      "id": 32012,
+      "title": "Madhav Narayan",
+      "district": 32
+    },
+    {
+      "id": 32013,
+      "title": "Maulapur",
+      "district": 32
+    },
+    {
+      "id": 49002,
+      "title": "Devdaha",
+      "district": 37
+    },
+    {
+      "id": 49009,
+      "title": "Omsatiya",
+      "district": 37
+    },
+    {
+      "id": 47007,
+      "title": "Rampur",
+      "district": 39
+    },
+    {
+      "id": 39007,
+      "title": "Harinas",
+      "district": 42
+    },
+    {
+      "id": 44004,
+      "title": "Mahashila",
+      "district": 51
+    },
+    {
+      "id": 62001,
+      "title": "Chharka Tangsong",
+      "district": 57
+    },
+    {
+      "id": 63003,
+      "title": "Hima",
+      "district": 60
+    },
+    {
+      "id": 59006,
+      "title": "Gurbhakot",
+      "district": 64
+    },
+    {
+      "id": 48001,
+      "title": "Bardaghat",
+      "district": 482
+    },
+    {
+      "id": 28088,
+      "title": "Shivapuri Watershed and Wildlife Reserve",
+      "district": 25
+    },
+    {
+      "id": 28099,
+      "title": "Langtang National Park",
+      "district": 25
+    },
+    {
+      "id": 32017,
+      "title": "Rajpur",
+      "district": 32
+    },
+    {
+      "id": 32018,
+      "title": "Yemunamai",
+      "district": 32
+    },
+    {
+      "id": 49001,
+      "title": "Butwal",
+      "district": 37
+    },
+    {
+      "id": 49003,
+      "title": "Gaidahawa",
+      "district": 37
+    },
+    {
+      "id": 49004,
+      "title": "Kanchan",
+      "district": 37
+    },
+    {
+      "id": 49006,
+      "title": "Lumbini Sanskritik",
+      "district": 37
+    },
+    {
+      "id": 49007,
+      "title": "Marchawari",
+      "district": 37
+    },
+    {
+      "id": 49008,
+      "title": "Mayadevi",
+      "district": 37
+    },
+    {
+      "id": 40002,
+      "title": "Machhapuchchhre",
+      "district": 46
+    },
+    {
+      "id": 40003,
+      "title": "Madi",
+      "district": 46
+    },
+    {
+      "id": 40004,
+      "title": "Pokhara Lekhnath",
+      "district": 46
+    }
+  ]
+}

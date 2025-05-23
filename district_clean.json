@@ -1,0 +1,392 @@
+{
+  "count": 9.223372036854776e+18,
+  "next": "https://bipadportal.gov.np/api/v1/district/?format=json&limit=1000&offset=1000",
+  "previous": null,
+  "results": [
+    {
+      "id": 2,
+      "title": "Panchthar",
+      "province": 1
+    },
+    {
+      "id": 3,
+      "title": "Ilam",
+      "province": 1
+    },
+    {
+      "id": 4,
+      "title": "Jhapa",
+      "province": 1
+    },
+    {
+      "id": 5,
+      "title": "Morang",
+      "province": 1
+    },
+    {
+      "id": 6,
+      "title": "Sunsari",
+      "province": 1
+    },
+    {
+      "id": 8,
+      "title": "Terhathum",
+      "province": 1
+    },
+    {
+      "id": 9,
+      "title": "Bhojpur",
+      "province": 1
+    },
+    {
+      "id": 10,
+      "title": "Sankhuwasabha",
+      "province": 1
+    },
+    {
+      "id": 11,
+      "title": "Solukhumbu",
+      "province": 1
+    },
+    {
+      "id": 12,
+      "title": "Khotang",
+      "province": 1
+    },
+    {
+      "id": 13,
+      "title": "Okhaldhunga",
+      "province": 1
+    },
+    {
+      "id": 14,
+      "title": "Udayapur",
+      "province": 1
+    },
+    {
+      "id": 16,
+      "title": "Saptari",
+      "province": 2
+    },
+    {
+      "id": 20,
+      "title": "Sindhuli",
+      "province": 3
+    },
+    {
+      "id": 22,
+      "title": "Dolakha",
+      "province": 3
+    },
+    {
+      "id": 23,
+      "title": "Rasuwa",
+      "province": 3
+    },
+    {
+      "id": 25,
+      "title": "Nuwakot",
+      "province": 3
+    },
+    {
+      "id": 28,
+      "title": "Lalitpur",
+      "province": 3
+    },
+    {
+      "id": 31,
+      "title": "Makwanpur",
+      "province": 3
+    },
+    {
+      "id": 33,
+      "title": "Bara",
+      "province": 2
+    },
+    {
+      "id": 34,
+      "title": "Parsa",
+      "province": 2
+    },
+    {
+      "id": 38,
+      "title": "Kapilbastu",
+      "province": 5
+    },
+    {
+      "id": 40,
+      "title": "Arghakhanchi",
+      "province": 5
+    },
+    {
+      "id": 42,
+      "title": "Syangja",
+      "province": 4
+    },
+    {
+      "id": 44,
+      "title": "Gorkha",
+      "province": 4
+    },
+    {
+      "id": 46,
+      "title": "Kaski",
+      "province": 4
+    },
+    {
+      "id": 47,
+      "title": "Manang",
+      "province": 4
+    },
+    {
+      "id": 50,
+      "title": "Baglung",
+      "province": 4
+    },
+    {
+      "id": 52,
+      "title": "Dang",
+      "province": 5
+    },
+    {
+      "id": 54,
+      "title": "Rolpa",
+      "province": 5
+    },
+    {
+      "id": 58,
+      "title": "Mugu",
+      "province": 6
+    },
+    {
+      "id": 60,
+      "title": "Jumla",
+      "province": 6
+    },
+    {
+      "id": 63,
+      "title": "Dailekh",
+      "province": 6
+    },
+    {
+      "id": 64,
+      "title": "Surkhet",
+      "province": 6
+    },
+    {
+      "id": 66,
+      "title": "Banke",
+      "province": 5
+    },
+    {
+      "id": 68,
+      "title": "Doti",
+      "province": 7
+    },
+    {
+      "id": 70,
+      "title": "Bajura",
+      "province": 7
+    },
+    {
+      "id": 73,
+      "title": "Baitadi",
+      "province": 7
+    },
+    {
+      "id": 75,
+      "title": "Kanchanpur",
+      "province": 7
+    },
+    {
+      "id": 541,
+      "title": "Rukum East",
+      "province": 5
+    },
+    {
+      "id": 1,
+      "title": "Taplejung",
+      "province": 1
+    },
+    {
+      "id": 7,
+      "title": "Dhankuta",
+      "province": 1
+    },
+    {
+      "id": 15,
+      "title": "Siraha",
+      "province": 2
+    },
+    {
+      "id": 17,
+      "title": "Dhanusa",
+      "province": 2
+    },
+    {
+      "id": 18,
+      "title": "Mahottari",
+      "province": 2
+    },
+    {
+      "id": 19,
+      "title": "Sarlahi",
+      "province": 2
+    },
+    {
+      "id": 21,
+      "title": "Ramechhap",
+      "province": 3
+    },
+    {
+      "id": 24,
+      "title": "Sindhupalchok",
+      "province": 3
+    },
+    {
+      "id": 26,
+      "title": "Dhading",
+      "province": 3
+    },
+    {
+      "id": 27,
+      "title": "Kathmandu",
+      "province": 3
+    },
+    {
+      "id": 29,
+      "title": "Bhaktapur",
+      "province": 3
+    },
+    {
+      "id": 30,
+      "title": "Kavrepalanchok",
+      "province": 3
+    },
+    {
+      "id": 32,
+      "title": "Rautahat",
+      "province": 2
+    },
+    {
+      "id": 35,
+      "title": "Chitwan",
+      "province": 3
+    },
+    {
+      "id": 37,
+      "title": "Rupandehi",
+      "province": 5
+    },
+    {
+      "id": 39,
+      "title": "Palpa",
+      "province": 5
+    },
+    {
+      "id": 41,
+      "title": "Gulmi",
+      "province": 5
+    },
+    {
+      "id": 43,
+      "title": "Tanahu",
+      "province": 4
+    },
+    {
+      "id": 45,
+      "title": "Lamjung",
+      "province": 4
+    },
+    {
+      "id": 48,
+      "title": "Mustang",
+      "province": 4
+    },
+    {
+      "id": 49,
+      "title": "Myagdi",
+      "province": 4
+    },
+    {
+      "id": 51,
+      "title": "Parbat",
+      "province": 4
+    },
+    {
+      "id": 53,
+      "title": "Pyuthan",
+      "province": 5
+    },
+    {
+      "id": 55,
+      "title": "Salyan",
+      "province": 6
+    },
+    {
+      "id": 57,
+      "title": "Dolpa",
+      "province": 6
+    },
+    {
+      "id": 59,
+      "title": "Humla",
+      "province": 6
+    },
+    {
+      "id": 61,
+      "title": "Kalikot",
+      "province": 6
+    },
+    {
+      "id": 62,
+      "title": "Jajarkot",
+      "province": 6
+    },
+    {
+      "id": 65,
+      "title": "Bardiya",
+      "province": 5
+    },
+    {
+      "id": 67,
+      "title": "Kailali",
+      "province": 7
+    },
+    {
+      "id": 69,
+      "title": "Achham",
+      "province": 7
+    },
+    {
+      "id": 71,
+      "title": "Bajhang",
+      "province": 7
+    },
+    {
+      "id": 72,
+      "title": "Darchula",
+      "province": 7
+    },
+    {
+      "id": 74,
+      "title": "Dadeldhura",
+      "province": 7
+    },
+    {
+      "id": 481,
+      "title": "Nawalparasi East",
+      "province": 4
+    },
+    {
+      "id": 482,
+      "title": "Nawalparasi West",
+      "province": 5
+    },
+    {
+      "id": 542,
+      "title": "Rukum West",
+      "province": 6
+    }
+  ]
+}

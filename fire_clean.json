@@ -1,0 +1,107 @@
+{
+  "count": 9.223372036854776e+18,
+  "next": "https://bipadportal.gov.np/api/v1/fire/?format=json&limit=1000&offset=1000",
+  "previous": null,
+  "results": [
+    {
+      "title": "Forest Fire at Sigas-4, Baitadi",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.77396,
+        29.43205
+      ],
+      "brightness": 313.77,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Patan-10, Baitadi",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.71156,
+        29.42675
+      ],
+      "brightness": 315.33,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Panchpuri-7, Surkhet",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        81.45946,
+        28.87581
+      ],
+      "brightness": 310.47,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Panchpuri-7, Surkhet",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        81.45799,
+        28.88487
+      ],
+      "brightness": 336.14,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Panchpuri-7, Surkhet",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        81.45565,
+        28.8938
+      ],
+      "brightness": 310.7,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Mangalsen-13, Achham",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        81.21114,
+        29.06957
+      ],
+      "brightness": 310.02,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Chure-3, Kailali",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.63454,
+        29.00576
+      ],
+      "brightness": 304.28,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Jorayal-5, Doti",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.79125,
+        29.12346
+      ],
+      "brightness": 300.87,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Aadarsha-5, Doti",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.80048,
+        29.34826
+      ],
+      "brightness": 303.87,
+      "landCover": "Forest"
+    },
+    {
+      "title": "Forest Fire at Nawadurga-5, Dadeldhura",
+      "eventOn": "2025-05-16T05:45:00+05:45",
+      "coordinates": [
+        80.74977,
+        29.395
+      ],
+      "brightness": 303.98,
+      "landCover": "Forest"
+    }
+  ]
+}

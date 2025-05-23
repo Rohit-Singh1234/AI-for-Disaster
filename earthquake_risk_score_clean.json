@@ -1,0 +1,315 @@
+{
+  "count": 9.223372036854776e+18,
+  "next": "https://bipadportal.gov.np/api/v1/earthquake-riskscore/?format=json&limit=1000&offset=1000",
+  "previous": null,
+  "results": [
+    {
+      "district": 69,
+      "riskScore": 2.25716458386899
+    },
+    {
+      "district": 40,
+      "riskScore": 3.23181769604
+    },
+    {
+      "district": 50,
+      "riskScore": 3.41363351913059
+    },
+    {
+      "district": 73,
+      "riskScore": 2.66275881876443
+    },
+    {
+      "district": 71,
+      "riskScore": 1.89817033578195
+    },
+    {
+      "district": 70,
+      "riskScore": 3.08961119593956
+    },
+    {
+      "district": 66,
+      "riskScore": 2.0062317606457
+    },
+    {
+      "district": 33,
+      "riskScore": 1.63841075098055
+    },
+    {
+      "district": 65,
+      "riskScore": 2.37041184223017
+    },
+    {
+      "district": 29,
+      "riskScore": 1.5183607800727
+    },
+    {
+      "district": 9,
+      "riskScore": 2.83794902786343
+    },
+    {
+      "district": 35,
+      "riskScore": 2.18597247621812
+    },
+    {
+      "district": 74,
+      "riskScore": 3.426509865821
+    },
+    {
+      "district": 63,
+      "riskScore": 4.00101456799049
+    },
+    {
+      "district": 52,
+      "riskScore": 2.60061597539263
+    },
+    {
+      "district": 72,
+      "riskScore": 3.11872591330033
+    },
+    {
+      "district": 26,
+      "riskScore": 3.25901465918186
+    },
+    {
+      "district": 7,
+      "riskScore": 2.58244097508361
+    },
+    {
+      "district": 17,
+      "riskScore": 1.54263257842574
+    },
+    {
+      "district": 22,
+      "riskScore": 2.50863955922196
+    },
+    {
+      "district": 57,
+      "riskScore": 3.0635479280415
+    },
+    {
+      "district": 68,
+      "riskScore": 3.08655433898198
+    },
+    {
+      "district": 44,
+      "riskScore": 2.74672694133336
+    },
+    {
+      "district": 41,
+      "riskScore": 3.61172930767298
+    },
+    {
+      "district": 59,
+      "riskScore": 3.27517239629318
+    },
+    {
+      "district": 3,
+      "riskScore": 2.64013675370508
+    },
+    {
+      "district": 62,
+      "riskScore": 3.55443262269915
+    },
+    {
+      "district": 4,
+      "riskScore": 1.63538211967422
+    },
+    {
+      "district": 60,
+      "riskScore": 2.73603609373455
+    },
+    {
+      "district": 67,
+      "riskScore": 3.60943776166446
+    },
+    {
+      "district": 61,
+      "riskScore": 3.16347653505478
+    },
+    {
+      "district": 75,
+      "riskScore": 1.91645862668264
+    },
+    {
+      "district": 38,
+      "riskScore": 2.72087513686745
+    },
+    {
+      "district": 46,
+      "riskScore": 1.95142301547174
+    },
+    {
+      "district": 27,
+      "riskScore": 2.61342452243392
+    },
+    {
+      "district": 30,
+      "riskScore": 2.88122918479889
+    },
+    {
+      "district": 12,
+      "riskScore": 2.77249538974566
+    },
+    {
+      "district": 28,
+      "riskScore": 1.63544286250677
+    },
+    {
+      "district": 45,
+      "riskScore": 2.32367984327183
+    },
+    {
+      "district": 18,
+      "riskScore": 1.52603773292707
+    },
+    {
+      "district": 31,
+      "riskScore": 2.47230507319043
+    },
+    {
+      "district": 47,
+      "riskScore": 2.06409908848159
+    },
+    {
+      "district": 5,
+      "riskScore": 1.50890425948569
+    },
+    {
+      "district": 58,
+      "riskScore": 2.64879824659089
+    },
+    {
+      "district": 48,
+      "riskScore": 2.09343665564427
+    },
+    {
+      "district": 49,
+      "riskScore": 2.86425403659788
+    },
+    {
+      "district": 481,
+      "riskScore": 2.61320022138223
+    },
+    {
+      "district": 482,
+      "riskScore": 2.61320022138223
+    },
+    {
+      "district": 25,
+      "riskScore": 2.77586882726683
+    },
+    {
+      "district": 13,
+      "riskScore": 2.80076132336095
+    },
+    {
+      "district": 39,
+      "riskScore": 3.06120622284044
+    },
+    {
+      "district": 2,
+      "riskScore": 2.75616479065625
+    },
+    {
+      "district": 51,
+      "riskScore": 2.47069624108914
+    },
+    {
+      "district": 34,
+      "riskScore": 1.55819145273302
+    },
+    {
+      "district": 53,
+      "riskScore": 3.42879674765845
+    },
+    {
+      "district": 21,
+      "riskScore": 2.71795553705097
+    },
+    {
+      "district": 23,
+      "riskScore": 1.98500768067621
+    },
+    {
+      "district": 32,
+      "riskScore": 2.18913077002489
+    },
+    {
+      "district": 54,
+      "riskScore": 3.417049316685
+    },
+    {
+      "district": 542,
+      "riskScore": 3.16279655396773
+    },
+    {
+      "district": 541,
+      "riskScore": 3.16279655396773
+    },
+    {
+      "district": 37,
+      "riskScore": 2.77464755512965
+    },
+    {
+      "district": 55,
+      "riskScore": 3.32329381593715
+    },
+    {
+      "district": 10,
+      "riskScore": 2.61950860396134
+    },
+    {
+      "district": 16,
+      "riskScore": 1.48074650552093
+    },
+    {
+      "district": 19,
+      "riskScore": 1.84539785320961
+    },
+    {
+      "district": 20,
+      "riskScore": 2.82711373111709
+    },
+    {
+      "district": 24,
+      "riskScore": 2.66432393386871
+    },
+    {
+      "district": 15,
+      "riskScore": 1.85714457631654
+    },
+    {
+      "district": 11,
+      "riskScore": 2.68640554366566
+    },
+    {
+      "district": 6,
+      "riskScore": 1.63185157025928
+    },
+    {
+      "district": 64,
+      "riskScore": 2.29472857250277
+    },
+    {
+      "district": 42,
+      "riskScore": 2.87152131576497
+    },
+    {
+      "district": 43,
+      "riskScore": 2.84430133555545
+    },
+    {
+      "district": 1,
+      "riskScore": 2.40391952138186
+    },
+    {
+      "district": 8,
+      "riskScore": 2.1479883386026
+    },
+    {
+      "district": 14,
+      "riskScore": 2.3011252335509
+    }
+  ]
+}
